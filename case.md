@@ -4,7 +4,7 @@ The case of a middle age male with an unclassified neurological disorder with sy
 
 There is research linking infections to neurological diseases, like Alzheimer.
 
-Keywords: microglia, myalgia, gingivitis, oral microbiome, muscular imbalance, ataxia
+Keywords: microglia, myalgia, gingivitis, oral microbiome, muscular imbalance, ataxia, ankylosing spondylitis
 
 Pre 2017
 History or canker sore
